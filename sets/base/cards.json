@@ -937,7 +937,7 @@
             "lesson":"Transfiguration",
             "cost":"10",
             "type":"Item",
-            "description":"Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done by that creature until the end of your opponent's next turn.",
+            "description":"Once during each of your turns, you may choose 1 of your opponent's Creatures in play. Prevent all damage done to you by that Creature until the end of your opponent's next turn.",
             "rarity":"Uncommon",
             "artist":"Ron Spears"
         },
