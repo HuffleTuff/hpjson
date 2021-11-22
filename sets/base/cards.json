@@ -1344,7 +1344,7 @@
             "lesson":"Transfiguration",
             "cost":"4",
             "type":"Spell",
-            "description":"All your creatures do damage to your opponent.",
+            "description":"All your Creatures do damage to your opponent.",
             "rarity":"Common",
             "artist":"Tim Hildebrandt"
         },
