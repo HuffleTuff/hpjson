@@ -927,7 +927,7 @@
             "lesson":"Transfiguration",
             "cost":"9",
             "type":"Spell",
-            "description":"Play this card only if your opponent has any Lessons in play. Choose 1 of those Lessons and discard it. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it in your hand. Then shuffle your deck.",
+            "description":"Play this card only if your opponent has any Lessons in play. Choose 1 of those Lessons and discard it. Search your deck. You may take a Creature card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "rarity":"Uncommon",
             "artist":"Patrick Faricy"
         },
