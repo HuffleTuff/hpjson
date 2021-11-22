@@ -515,7 +515,7 @@
             "lesson":"Transfiguration",
             "cost":"10",
             "type":"Spell",
-            "description":"Discard all creatures from play (even your own).",
+            "description":"Discard all Creatures from play (even your own).",
             "rarity":"Rare",
             "artist":"Michael T. Collins"
         },
