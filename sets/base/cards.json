@@ -559,7 +559,7 @@
             "lesson":"Potions",
             "cost":"5",
             "type":"Spell",
-            "description":"To play this card, discard 2 other cards from your hand. You may take a card that needs Potions Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "description":"To play this card, discard 2 other cards from your hand. Search your deck. You may take a card that needs Potions Power from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "rarity":"Uncommon",
             "artist":"James Bernardin"
         },
