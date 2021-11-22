@@ -1010,7 +1010,7 @@
             "subTypes":[
                 "Wand"
             ],
-            "description":"If you play this card and you already have a Wand in play, discard the old one.",
+            "description":"If you play this card, and you already have a Wand in play, discard the old one.",
             "provides":[
                 "2",
                 "Charms"
