@@ -733,7 +733,7 @@
             "subTypes":[
                 "Kelpie"
             ],
-            "description":"To play this card, discard 1 of your Care of Magical Creature Lessons from play. Whenever a Spell card damages you, you may let Kelpie take that damage instead.",
+            "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play. Whenever a Spell card damages you, you may let Kelpie take that damage instead.",
             "dmgEachTurn":"1",
             "health":"5",
             "flavorText":"'The mountains around the school became icy grey and the lake like chilled steel.'",
