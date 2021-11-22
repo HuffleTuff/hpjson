@@ -450,13 +450,13 @@
             "subTypes":[
                 "Wand"
             ],
-            "description":"Play this card only is you have cards in play that provide at least 3 Charms Power. If you play this card, and you already have a Wand in play, discard the old one.",
+            "description":"Play this card only if you have cards in play that provide at least 3 Charms Power. If you play this card, and you already have a Wand in play, discard the old one.",
             "provides":[
                 "4",
                 "Charms"
             ],
             "rarity":"Rare",
-            "artist":"Scott Lewis"
+            "artist":"Cindy Salans Rosenheim"
         },
         {
             "number":"32",
