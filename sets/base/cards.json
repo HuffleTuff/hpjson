@@ -619,7 +619,7 @@
             "lesson":"Care of Magical Creatures",
             "cost":"2",
             "type":"Item",
-            "description":"During your turn, you may discard this card from play and use an Action to choose a Creature in play (yours or your opponent's) and return it to it's owner's hand.",
+            "description":"During your turn, you may discard this card from play and use an Action to choose a Creature in play (yours or your opponent's) and return it to its owner's hand.",
             "provides":[
                 "1",
                 "Care of Magical Creatures"
