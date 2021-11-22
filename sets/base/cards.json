@@ -832,7 +832,7 @@
             "lesson":"Potions",
             "cost":"10",
             "type":"Spell",
-            "description":"Your opponent chooses 3 of his or her cards in play and discards them (if your opponent has fewer than 3 cards in play he or she discards them all). Your opponent may prevent this by discarding 1 of his or her Potions Lessons in play and discarding it.",
+            "description":"Your opponent chooses 3 of his or her cards in play and discards them (if your opponent has fewer than 3 cards in play, he or she discards them all). Your opponent may prevent this by choosing 1 of his or her Potions Lessons in play and discarding it.",
             "rarity":"Uncommon",
             "artist":"Jason Bernardin"
         },
