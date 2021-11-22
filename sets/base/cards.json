@@ -1414,7 +1414,7 @@
             "lesson":"Charms",
             "cost":"1",
             "type":"Spell",
-            "description":"Reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put the card in your hand.",
+            "description":"Reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put the card into your hand.",
             "flavorText":"'Harry pulled a wizard cracker with Fred and it didn't just bang, it went off with a blast like a cannon...'",
             "rarity":"Common",
             "artist":"Patrick Faricy"
