@@ -267,6 +267,7 @@
             "cost":"12",
             "type":"Spell",
             "description":"Your opponent chooses 5 of his or her cards and discards them. Those cards can come from his or her hand or from play or from both. (If there are fewer than 5 total cards in your opponent's hand and in play, he or she discards them all.)",
+            "flavorText":"'Neville had somehow managed to melt Seamus's cauldron into a twisted blob and their potion was seeping across the stone floor, ...'",
             "rarity":"Foil Premium",
             "artist":"Alex Horley"
         },
