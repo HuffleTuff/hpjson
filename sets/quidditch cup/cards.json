@@ -767,7 +767,7 @@
             "cost":"4",
             "type":"Spell",
             "description":"Do 4 damage to your opponent. During your opponent's next turn, he or she gets 1 fewer Action. (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
-            "flavorText":"''WHAM!' A roar of rage echoed from the Gryffindors below - Marcus Flint had blocked Harry on purpose and Harry's broom span off course, Harry holding on for dear life.'",
+            "flavorText":"'WHAM! A roar of rage echoed from the Gryffindors below - Marcus Flint had blocked Harry on purpose and Harry's broom span off course, Harry holding on for dear life.'",
             "rarity":"Common",
             "artist":"James Bernardin"
         },
