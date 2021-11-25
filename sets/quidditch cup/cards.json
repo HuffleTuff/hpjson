@@ -414,7 +414,7 @@
             "cost":"1",
             "type":"Spell",
             "description":"Search your deck. You may take a Wizard or a Witch card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-            "flavorText":"''What are those?' Harry asked Ron, holding up a pack of Chocolate Frogs. 'They're not really frogs, are they?''",
+            "flavorText":"'\"What are those?\" Harry asked Ron, holding up a pack of Chocolate Frogs. \"They're not really frogs, are they?\"'",
             "rarity":"Uncommon",
             "artist":"Monte Michael Moore"
         },
