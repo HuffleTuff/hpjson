@@ -324,7 +324,7 @@
             "description":"If Scabbers is discarded from play during your opponent's turn, put it into your hand.",
             "dmgEachTurn":"1",
             "health":"3",
-            "flavorText":"'The rat was still snoozing on Ron's lap. 'He might have died and you wouldn't know the difference,' said Ron in disgust.'",
+            "flavorText":"'The rat was still snoozing on Ron's lap. \"He might have died and you wouldn't know the difference,\" said Ron in disgust.'",
             "rarity":"Foil Premium",
             "artist":"Patrick Faricy"
         },
