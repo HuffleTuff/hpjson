@@ -706,7 +706,7 @@
             "lesson":"Quidditch",
             "cost":"7",
             "type":"Spell",
-            "description":"Do 4 damage to your opponent. Then, if your opponent has any cards in play, he or she chooses 1 of them and discards them.",
+            "description":"Do 4 damage to your opponent. Then, if your opponent has any cards in play, he or she chooses 1 of them and discards it.",
             "rarity":"Common",
             "artist":"Patrick Faricy"
         },
