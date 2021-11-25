@@ -666,7 +666,7 @@
             "lesson":"Charms",
             "cost":"3",
             "type":"Spell",
-            "description":"For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that Matches.)",
+            "description":"For the rest of this turn, your Spell cards need 5 less Power to play. (You still need at least 1 Power that matches.)",
             "rarity":"Common",
             "artist":"Mark Romanoski"
         },
