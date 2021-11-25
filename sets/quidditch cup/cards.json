@@ -208,11 +208,13 @@
         {
             "number":"16",
             "name":"Nimbus Two Thousand",
+            "lesson":"Quidditch",
+            "cost":"7",
             "type":"Item",
             "subTypes":[
                 "Broom"
             ],
-            "description":"Whenever 1 of your Item or Spell cards that needs Quidditch Power does damage, it does 2 more damage. If you play this card and already have a Broom in play, discard the old one.",
+            "description":"Whenever 1 of your Item or Spell cards that needs Quidditch Power does damage, it does 2 more damage. If you play this card, and you already have a Broom in play, discard the old one.",
             "provides":[
                 "1",
                 "Quidditch"
