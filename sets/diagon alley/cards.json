@@ -558,8 +558,8 @@
                 "Unique"
             ],
             "note":"When you play this card, discard any other Location from play (yours or your opponent's).",
-            "description":"Whenever a card (yours or your opponent's) does damage, it does 1 less damage",
-            "flavorText":"'Madam Malkin stood Harry on a stool… slipped a long robe over his head and started to pin it to the right length.'",
+            "description":"Whenever a card (yours or your opponent's) does damage, it does 1 less damage.",
+            "flavorText":"'Madam Malkin stood Harry on a stool... slipped a long robe over his head and started to pin it to the right length.'",
             "rarity":"Uncommon",
             "artist":"Greg Hildebrandt"
         },
