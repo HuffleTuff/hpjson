@@ -617,7 +617,7 @@
             "lesson":"Quidditch",
             "cost":"5",
             "type":"Spell",
-            "description":"Discard any number of cards from your hand. Do that much damage to your opponent",
+            "description":"Discard any number of cards from your hand. Do that much damage to your opponent.",
             "flavorText":"'...Harry streaked towards the ground like a bullet.'",
             "rarity":"Uncommon",
             "artist":[
