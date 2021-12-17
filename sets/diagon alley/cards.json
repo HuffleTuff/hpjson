@@ -20,6 +20,9 @@
             "lesson":"Potions",
             "cost":"10",
             "type":"Item",
+            "subTypes":[
+                "Bulgeye Potion"
+            ],
             "description":"You may use an Action and discard this card from play to do 13 damage to your opponent.",
             "rarity":"Foil Premium",
             "artist":"Ken Steacy"
