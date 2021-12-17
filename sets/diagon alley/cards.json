@@ -805,7 +805,7 @@
             "lesson":"Quidditch",
             "cost":"10",
             "type":"Spell",
-            "description":"Do 10 damage to your opponent. Then choose 1 of your cards in play (other than your starting character) and discard it.",
+            "description":"Do 10 damage to your opponent. Then choose 1 of your cards in play (other than your starting Character) and discard it.",
             "rarity":"Common",
             "artist":[
                 "Kevin McCann",
