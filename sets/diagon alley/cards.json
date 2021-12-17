@@ -828,7 +828,7 @@
             "lesson":"Transfiguration",
             "cost":"4",
             "type":"Spell",
-            "description":"Choose 1 of your opponent's cards in play (other than his or her starting character) and discard it. Your opponent may prevent this by choosing 2 of his or her cards in play (other than his or her starting character) and discarding them.",
+            "description":"Choose 1 of your opponent's cards in play (other than his or her starting Character) and discard it. Your opponent may prevent this by choosing 2 of his or her cards in play (other than his or her starting Character) and discarding them.",
             "flavorText":"'...Neville managed to have an extraordinary number of accidents...'",
             "rarity":"Common",
             "artist":"Mark Romanoski"
