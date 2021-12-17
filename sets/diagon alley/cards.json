@@ -266,9 +266,9 @@
             "name":"Letters From No One",
             "type":"Adventure",
             "description":{
-                "effect":"Your opponent may only use Actions to draw cards.",
+                "effect":"Your opponent may only use Actions only to draw cards.",
                 "toSolve":"Your opponent discards 5 cards from his or her hand.",
-                "reward":"Your opponent may draw two cards."
+                "reward":"Your opponent may draw 2 cards."
             },
             "flavorText":"'...thirty or forty letters came pelting out of the fireplace like bullets.'",
             "rarity":"Foil Premium",
