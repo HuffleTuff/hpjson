@@ -9,7 +9,7 @@
             "lesson":"Quidditch",
             "cost":"4",
             "type":"Spell",
-            "description":"Return a Match in play to its owner's hand",
+            "description":"Return a Match in play to its owner's hand.",
             "flavorText":"'Harry learnt that there were seven hundred ways of committing a Quidditch foul...'",
             "rarity":"Foil Premium",
             "artist":"Dennis Calero"
