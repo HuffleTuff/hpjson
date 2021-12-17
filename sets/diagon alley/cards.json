@@ -137,8 +137,8 @@
             "lesson":"Charms",
             "cost":"6",
             "type":"Spell",
-            "description":"Search your deck. You may take any card from your deck and put it into your hand. Then shuffle your deck",
-            "flavorText":"'You have his key, sir?'' — Gringotts goblin",
+            "description":"Search your deck. You may take any card from your deck and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'\"You have his key, sir?\"' —Gringotts goblin",
             "rarity":"Foil Premium",
             "artist":"Thomas Gianni"
         },
