@@ -887,7 +887,7 @@
             "description":"To play this card, discard 1 of your Care of Magical Creatures Lessons from play.",
             "dmgEachTurn":"4",
             "health":"3",
-            "flavorText":"'...they're supposed to be really stupid,' said Ron.'",
+            "flavorText":"'...they're supposed to be really stupid,' said Ron.",
             "rarity":"Common",
             "artist":"Jeff Laubenstein"
         },
