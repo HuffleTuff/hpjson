@@ -250,7 +250,7 @@
             "subTypes":[
                 "Unique"
             ],
-            "description":"You may use an Action to discard this card from play. If you do, count the number of cards in your hand and discard them. Then search your deck. You may take up to that number of cards from your deck and put them into your hand. Then shuffle your deck.",
+            "description":"You may use an Action to discard this card from play. If you do, count the cards in your hand and discard them. Then search your deck. You may take up to that number of cards from your deck and put them into your hand. Then shuffle your deck.",
             "rarity":"Foil Premium",
             "artist":"Scott M. Fischer"
         },
