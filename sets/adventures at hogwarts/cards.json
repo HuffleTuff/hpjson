@@ -166,13 +166,13 @@
             "name":"Harry Triumphant",
             "type":"Character",
             "subTypes":[
-                "Unique",
                 "Wizard",
+                "Gryffindor",
                 "Seeker",
-                "Gryffindor"
+                "Unique"
             ],
             "description":"At the end of each of your turns, if you played an Adventure card that turn, draw up to 4 cards.",
-            "flavorText":"'... to Mr Harry Potter ...' ... '... for pure nerve and outstanding courage, I award Gryffindor house sixty points.' — Albus Dumbledore",
+            "flavorText":"'\"... to Mr Harry Potter ...\" ... \"... for pure nerve and outstanding courage, I award Gryffindor house sixty points.\"' — Albus Dumbledore",
             "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
