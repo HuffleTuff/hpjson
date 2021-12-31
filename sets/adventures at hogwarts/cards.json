@@ -234,7 +234,7 @@
             "type":"Adventure",
             "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "effect":"To use an Action to play a Creature or a Spell card from his or her hand, your opponent must discard another card from his or her hand.",
+                "effect":"To use an Action to play a Creature or Spell card from his or her hand, your opponent must discard another card from his or her hand.",
                 "toSolve":"Your opponent chooses 4 of his or her cards in play (other than his or her starting Character) and discards them.",
                 "reward":"Your opponent may draw 4 cards."
             },
