@@ -206,8 +206,8 @@
             "name":"Madam Pomfrey",
             "type":"Character",
             "subTypes":[
-                "Unique",
                 "Witch",
+                "Unique",
                 "Healing"
             ],
             "description":"Once per game, you may shuffle up to 12 non-Healing cards from your discard pile into your deck.",
