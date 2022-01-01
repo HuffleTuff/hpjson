@@ -579,7 +579,7 @@
             "lesson":"Charms",
             "cost":"6",
             "type":"Spell",
-            "description":"Your opponent chooses 3 cards in his or her hand and discards them. (If he or she has fewer than 3 cards in his or her hand, he or she discards them all.)",
+            "description":"Your opponent chooses 3 cards in his or her hand and discards them. (If he or she has fewer than 3 cards in his or her hand, he or she discards all of them.)",
             "flavorText":"'It took several purple firecrackers exploding from the end of Professor Dumbledore's wand to bring silence.'",
             "rarity":"Uncommon",
             "artist":"Greg Hildebrandt"
