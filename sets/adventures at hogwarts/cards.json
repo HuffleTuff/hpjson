@@ -419,7 +419,7 @@
             "lesson":"Charms",
             "cost":"4",
             "type":"Spell",
-            "description":"Search your deck. You may take a Location of Adventure card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "description":"Search your deck. You may take a Location or Adventure card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
             "flavorText":"'She grabbed Harry's wand, tapped the lock and whispered, 'Alohomora!''",
             "rarity":"Uncommon",
             "artist":"Bob Petillo"
