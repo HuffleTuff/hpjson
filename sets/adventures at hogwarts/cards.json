@@ -527,6 +527,7 @@
             ],
             "dmgEachTurn":"5",
             "health":"10",
+            "flavorText":"'... a giant squid ... was basking in the warm shallows.'",
             "rarity":"Uncommon",
             "artist":"Jeff Laubenstein"
         },
