@@ -652,7 +652,7 @@
             "lesson":"Care of Magical Creatures",
             "cost":"8",
             "type":"Spell",
-            "description":"Choose up to 3 Creatures in play and return them to their owner's hands.",
+            "description":"Choose up to 3 Creatures in play and return them to their owners' hands.",
             "flavorText":"'... it sounded a bit like an owl.'",
             "rarity":"Uncommon",
             "artist":"Tony Szczudlo"
