@@ -712,8 +712,8 @@
             "cost":"1",
             "type":"Spell",
             "subTypes":[
-                "Healing",
-                "Candy"
+                "Candy",
+                "Healing"
             ],
             "description":"Choose up to 2 non-Healing cards from your discard pile and put them on the bottom of your deck (in any order). Then draw a card. (Cauldron Cakes isn't really a Cauldron.)",
             "flavorText":"'He had never had any money for sweets with the Dursleys ...'",
