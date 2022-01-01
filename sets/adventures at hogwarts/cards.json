@@ -538,7 +538,7 @@
             "description":{
                 "effect":"Your opponent can't use Actions to play Creature cards.",
                 "toSolve":"Your opponent chooses 2 of his or her Lessons in play and discards them.",
-                "reward":"Your opponent may search his or her deck. He or she may take a Creature card, show it to you, and put it into his or her hand. Then your opponent shuffles his or her deck."
+                "reward":"Your opponent may search his or her deck. He or she may take a Creature card from his or her deck, show it to you and put it into his or her hand. Then your opponent shuffles his or her deck."
             },
             "rarity":"Uncommon",
             "artist":"David Day"
