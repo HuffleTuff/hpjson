@@ -943,7 +943,7 @@
             "cost":"3",
             "type":"Spell",
             "description":"Choose a non-Healing Item in play and return it to its owner's hand.",
-            "flavorText":"'He bent down and pulled his wand out of the troll's nose. It was covered in what looked like lumpy grey glue. 'Urgh - troll bogies.''",
+            "flavorText":"'He bent down and pulled his wand out of the troll's nose. It was covered in what looked like lumpy grey glue. \"Urgh - troll bogies.\"'",
             "rarity":"Common",
             "artist":"Greg Hildebrandt"
         },
