@@ -766,8 +766,8 @@
             "subTypes":[
                 "Candy"
             ],
-            "description":"Reveal the top 2 card of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card.",
-            "flavorText":"'When they say every flavour, they mean every flavour - ...'  - Ron Weasley",
+            "description":"Reveal the top 2 cards of your deck. Put into play any Lesson cards you revealed. Put into your discard pile any non-Lesson cards you revealed. Then draw a card.",
+            "flavorText":"'\"When they say every flavour, they mean every flavour - ...\"'  - Ron Weasley",
             "rarity":"Common",
             "artist":"Cindy Salans Rosenheim"
         },
