@@ -815,6 +815,7 @@
                 "Candy"
             ],
             "description":"Do 2 damage to your opponent. Then draw a card. (Liquorice Wand isn't really a Wand.)",
+            "flavorText":"'Not wanting to miss anything, he got some of everything ...'",
             "rarity":"Common",
             "artist":"Bob Petillo"
         },
