@@ -897,6 +897,10 @@
             "subTypes":[
                 "Broom"
             ],
+            "provides":[
+                "1",
+                "Quidditch"
+            ],
             "description":"When you play this card, draw a card. If you play this card, and you already have a Broom in play, discard the old one.",
             "rarity":"Common",
             "artist":"Thomas Gianni"
