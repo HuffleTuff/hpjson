@@ -379,7 +379,7 @@
             "description":{
                 "effect":"Your opponent can't use Actions to play Spell cards.",
                 "toSolve":"Your opponent takes 7 damage.",
-                "reward":"Your opponent may put up to 2 non-Healing cards from his or her discard pile and put them on the bottom of his deck (in any order)."
+                "reward":"Your opponent may put up to 2 non-Healing cards from his or her discard pile on the bottom of his or her deck (in any order)."
             },
             "rarity":"Foil Premium",
             "artist":"Scott M. Fischer"
