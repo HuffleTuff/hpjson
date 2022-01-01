@@ -742,6 +742,7 @@
             ],
             "dmgEachTurn":"4",
             "health":"2",
+            "flavorText":"'\"... the forest's full of dangerous beasts,...'\" - Percy Weasley",
             "rarity":"Common",
             "artist":"Jim Nelson"
         },
