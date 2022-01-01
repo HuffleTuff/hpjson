@@ -555,7 +555,7 @@
             "description":"When Marble Gargoyle does damage to your opponent, if he or she doesn't have any Creatures in play, it does 3 more damage to him or her.",
             "dmgEachTurn":"2",
             "health":"3",
-            "flavorText":"'Gulpin' gargoyles ...' - Rubeus Hagrid",
+            "flavorText":"'\"Gulpin' gargoyles ...\"' - Rubeus Hagrid",
             "rarity":"Uncommon",
             "artist":"Tony Szczudlo"
         },
