@@ -932,7 +932,7 @@
             "cost":"4",
             "type":"Spell",
             "description":"Choose an Item in play (yours or your opponent's) and discard it. Then search your deck. You may take an Item card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-            "flavorText":"'... you'll lose all the points I got from Professor McGonagall for knowing about Switching Spells.' - Hermione Granger",
+            "flavorText":"'\"... you'll lose all the points I got from Professor McGonagall for knowing about Switching Spells.\"' - Hermione Granger",
             "rarity":"Common",
             "artist":"Ken Steacy"
         },
