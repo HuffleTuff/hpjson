@@ -752,8 +752,8 @@
             "lesson":"Care of Magical Creatures",
             "cost":"4",
             "type":"Spell",
-            "description":"Choose a Creature in play. That Creature does damage to your opponent equal to that Creature's printed 'Damage each turn.'",
-            "flavorText":"''Blasted thing,' Snape was saying. 'How are you supposed to keep your eyes on all three heads at once?''",
+            "description":"Choose a Creature in play. That Creature does damage to your opponent equal to that Creature's printed \"Damage each turn.\"",
+            "flavorText":"'\"Blasted thing,\" Snape was saying. \"How are you supposed to keep your eyes on all three heads at once?\"'",
             "rarity":"Common",
             "artist":"Scott M. Fischer"
         },
