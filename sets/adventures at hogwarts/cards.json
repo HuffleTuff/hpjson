@@ -338,12 +338,12 @@
             "name":"Ron the Brave",
             "type":"Character",
             "subTypes":[
-                "Unique",
                 "Wizard",
-                "Gryffindor"
+                "Gryffindor",
+                "Unique"
             ],
-            "description":"At the end of each of your turns, if you played an Adventure card that turn, your may search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
-            "flavorText":"'... you don't think we'd let you go alone?' - Ron Weasley",
+            "description":"At the end of each of your turns, if you played an Adventure card that turn, you may search your deck. You may take a Character card from your deck, show it to your opponent and put it into your hand. Then shuffle your deck.",
+            "flavorText":"'\"... you don't think we'd let you go alone?\"' - Ron Weasley",
             "rarity":"Holo Portrait Premium",
             "artist":"Kim Graham"
         },
