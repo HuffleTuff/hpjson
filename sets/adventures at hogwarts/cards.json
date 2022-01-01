@@ -663,7 +663,7 @@
             "lesson":"Charms",
             "cost":"3",
             "type":"Spell",
-            "description":"Look at your opponent's hand. If there are any Lessons there, choose 1 of them and discard it.",
+            "description":"Look at your opponent's hand. If there are any Lesson cards there, choose 1 of them and discard it.",
             "flavorText":"'They had been given special, new quills for the exams, which had been bewitched with an Anti-Cheating spell.'",
             "rarity":"Common",
             "artist":"Greg Hildebrandt"
