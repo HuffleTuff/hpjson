@@ -406,7 +406,7 @@
             "type":"Adventure",
             "note":"Play this card only if you have at least 5 Lessons in play.",
             "description":{
-                "effect":"Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent would have fewer than 1 Action, he or she still gets 1 Action.)",
+                "effect":"Your opponent gets 1 fewer Action on each of his or her turns (even the turn this Adventure is solved). (If this would mean your opponent has fewer than 1 Action, he or she still gets 1 Action.)",
                 "toSolve":"Your opponent chooses 5 cards from his or her hand and discards them.",
                 "reward":"You take 5 damage."
             },
