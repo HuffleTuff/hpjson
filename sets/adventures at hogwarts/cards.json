@@ -911,7 +911,7 @@
             "lesson":"Transfiguration",
             "cost":"7",
             "type":"Spell",
-            "description":"Choose 2 of your opponent's cards in play (other than his or her starting Character). Your opponent discards one of them and returns the other to his or her hand.",
+            "description":"Choose 2 of your opponent's cards in play (other than his or her starting Character). He or she chooses and discards 1 of them and returns the other to his or her hand.",
             "rarity":"Common",
             "artist":"Mark Romanoski"
         },
