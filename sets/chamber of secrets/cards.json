@@ -232,7 +232,7 @@
             "name":"Escaping the Dursleys",
             "type":"Adventure",
             "description":{
-                "effect":"Your opponent can't use Actions to play non-Lesson cards.",
+                "effect":"Your opponent can't use Actions to play any cards except Lesson cards.",
                 "toSolve":"Your opponent discards his or her hand.",
                 "reward":"Your opponent searches his or her deck for any card, puts it into his or her hand and then shuffles his or her deck."
             },
