@@ -1373,7 +1373,7 @@
             ],
             "description":"At the end of each of your opponent's turns, if there are any cards in his or her hand, he or she chooses 1 of them and discards it.",
             "health":"1",
-            "flavorText":"'They love it here ... Dad's too soft with them, he thinks they're funny ...'",
+            "flavorText":"'\"They love it here ... Dad's too soft with them, he thinks they're funny ...\"'",
             "rarity":"Common",
             "artist":"Thomas Gianni"
         },
