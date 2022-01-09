@@ -1115,7 +1115,8 @@
                 "Plant"
             ],
             "description":"Once per turn, you may let Umbrella Flowers take 1 damage that you were going to take.",
-            "health":"2",
+            "health":"6",
+            "flavorText":"'Harry caught a whiff of damp earth and fertilizer, mingling with the heavy perfume of some giant, umbrella-sized flowers dangling from the ceiling.'",
             "rarity":"Uncommon",
             "artist":"Cindy Salans Rosenheim"
         },
