@@ -815,6 +815,9 @@
             "lesson":"Quidditch",
             "cost":"3",
             "type":"Item",
+            "subTypes":[
+                "Broom"
+            ],
             "description":"When you play this card, look at the top 2 cards of your deck (1 if there is only 1) and put both of them on the bottom or back on the top of your deck in any order. If you play this card, and you already have a Broom in play, discard the old one.",
             "provides":[
                 "1",
