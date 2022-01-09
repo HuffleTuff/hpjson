@@ -946,7 +946,7 @@
             "cost":"1",
             "type":"Spell",
             "description":"Choose any number of your cards in play (other than your starting Character) and discard them.",
-            "flavorText":"'Harry had seen him scrubbing the message on the wall with 'Mrs Skower's All-Purpose Magical Mess Remover,' but to no effect; ...'",
+            "flavorText":"'Harry had seen him scrubbing the message on the wall with \"Mrs Skower's All-Purpose Magical Mess Remover\", but to no effect; ...'",
             "rarity":"Uncommon",
             "artist":"Jeff Laubenstein"
         },
