@@ -1450,7 +1450,7 @@
             "cost":"3",
             "type":"Spell",
             "description":"Search your deck. You may take a Lesson card from your deck and put it into play. Then shuffle your deck.",
-            "flavorText":"'Hermione, let me read your composition, said Ron desperately, ...'",
+            "flavorText":"'\"Hermione, let me read your composition,\" said Ron desperately, ...'",
             "rarity":"Common",
             "artist":"Ron Spears"
         },
