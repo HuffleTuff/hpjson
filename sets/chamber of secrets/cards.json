@@ -751,7 +751,7 @@
             "lesson":"Quidditch",
             "cost":"5",
             "type":"Spell",
-            "description":"Draw 4 cards. Then your opponent may choose a Lesson card from his or her hand and discard it. If he or she does, you choose 3 cards in your hand and discard them.",
+            "description":"Draw 4 cards. Then your opponent may choose a Lesson card in his or her hand and discard it. If he or she does, you choose 3 cards in your hand and discard them.",
             "rarity":"Uncommon",
             "artist":"Mark Brill"
         },
