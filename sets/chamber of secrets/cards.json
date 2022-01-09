@@ -223,7 +223,7 @@
             "description":"When you play this card, reveal the top card of your deck. If it's a Lesson card, put it into play. If it isn't, put it back on top of your deck.",
             "dmgEachTurn":"1",
             "health":"1",
-            "flavorText":"'He's ancient. It wouldn't be the first time he'd collapsed on a delivery.' — Ron Weasley",
+            "flavorText":"'\"He's ancient. It wouldn't be the first time he'd collapsed on a delivery.\"' — Ron Weasley",
             "rarity":"Foil Premium",
             "artist":"Ron Spencer"
         },
