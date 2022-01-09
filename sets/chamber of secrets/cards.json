@@ -1132,7 +1132,7 @@
             "description":"You may use an Action and discard Venomous Tentacula from play to put a Potions Lesson from your discard pile into play.",
             "dmgEachTurn":"2",
             "health":"1",
-            "flavorText":"'... be careful of the Venomous Tentacula, it's teething.' – Professor Sprout",
+            "flavorText":"'\"... be careful of the Venomous Tentacula, it's teething.\"' – Professor Sprout",
             "rarity":"Uncommon",
             "artist":"Tim Hildebrandt"
         },
