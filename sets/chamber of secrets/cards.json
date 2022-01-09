@@ -961,6 +961,7 @@
             ],
             "dmgEachTurn":"2",
             "health":"4",
+            "flavorText":"'\"It is my job to arm you against the foulest creatures known to wizardkind!\"' - Professor Gilderoy Lockhart",
             "rarity":"Uncommon",
             "artist":"Patrick Faricy"
         },
